@@ -26,6 +26,10 @@ Building scalable software, modern web applications, and AI-powered solutions.
 </a>
 </p>
 
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://personal-portfolio-two-nu-62.vercel.app/">personal-portfolio-two-nu-62.vercel.app</a>
+</p>
+
 ---
 
 # 💫 About Me
